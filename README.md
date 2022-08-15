@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matthias Ospel
+- 👋 Hi, I’m Matthias
 - 👀 I’m interested in Acoustics
 - 🌱 I’m currently learning about Inverse Acoustics
 - 💞️ I’m looking to collaborate on Computational Acoustics
